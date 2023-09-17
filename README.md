@@ -17,8 +17,7 @@
 		&nbsp; &nbsp;-Software de controle das operações da fábrica.<br/>
 
 
-<h1><a href= "[https://www.mackenzie.br](https://github.com/RicardoALIkeda/UML-Classroom-FCI/blob/master/docs/index.md)">Documentação3</a></h1>
-# Documentação
+<h1><a href= "[https://www.mackenzie.br](https://github.com/RicardoALIkeda/UML-Classroom-FCI/blob/master/docs/index.md)">Documentação</a></h1>
 
 Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **[https://<usuario>.github.io/UML-Classroom-FCI/blob/master/docs/index.md](https://github.com/RicardoALIkeda/UML-Classroom-FCI/blob/master/docs/index.md)**
 
