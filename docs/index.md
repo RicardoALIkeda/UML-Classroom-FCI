@@ -120,8 +120,8 @@
 
 
 # Diagrama de sequencia
+![Screenshot_10](https://github.com/RicardoALIkeda/UML-Classroom-FCI/assets/89215809/901407b2-5d9d-4fb6-a522-07c299242edf)
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
 
 # Diagrama de classes
 
