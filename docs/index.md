@@ -34,11 +34,11 @@
 
 
 # Análise de requisitos funcionais e não-funcionais
-&nbsp; -Sistema de localização
-&nbsp; -Sistema de pedidos
-&nbsp; -Rastreamento de pedidos
-&nbsp; -Controle de produção
-&nbsp; -Sistema de entrega
+&nbsp; -Sistema de localização<br />
+&nbsp; -Sistema de pedidos<br />
+&nbsp; -Rastreamento de pedidos<br />
+&nbsp; -Controle de produção<br />
+&nbsp; -Sistema de entrega<br />
 
 # Diagrama de casos de uso
 
@@ -68,6 +68,7 @@
 | Pós-condição  | Login realizado |
 | Pontos de Inclusão  |   |
 | Pontos de Extesão  |   |
+
 | Identificador  | UC03|
 | ------------- | ------------- |
 | Nome| Encontrar loja mais proxima |
@@ -87,6 +88,7 @@
 | Pós-condição  | Envia as informações do pedido para fabrica  |
 | Pontos de Inclusão  |   |
 | Pontos de Extesão  |   |
+
 | Identificador  | UC05|
 | ------------- | ------------- |
 | Nome| Controlar operações da fabrica  |
