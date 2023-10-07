@@ -2,15 +2,6 @@
 <h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
 
 
-<font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
-</center></font>
-
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
-
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
-
-**Conteúdo**
 
 - [Autores](#nome-alunos)
 - [Descrição do projeto](#introdução-do-projeto)
@@ -27,7 +18,7 @@
 
 # Autores
 
-* Ricardo Andre Lopes Ikeda
+* Ricardo Andre Lopes Ikeda: 32158378
 
 
 # Descrição do projeto
@@ -51,12 +42,82 @@
 
 # Diagrama de casos de uso
 
-![Screenshot_8](https://github.com/RicardoALIkeda/UML-Classroom-FCI/assets/89215809/0243c076-f883-4aad-ab30-c117a3919ec8)
+
+![Screenshot_9](https://github.com/RicardoALIkeda/UML-Classroom-FCI/assets/89215809/9f46feb4-79ec-4c2a-9a94-8f25e690da32)
+
 
 
 # Descrição dos casos de uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+| Identificador  | UC01|
+| ------------- | ------------- |
+| Nome| Realizar pedido |
+| Atores  | Cliente  |
+| Sumário  | O Cliente usa o sistema para fazer seu pedido  |
+| Pré-condição  | O Cliente deve estar logado  |
+| Pós-condição  | O pedido é realizado  |
+| Pontos de Inclusão  |   |
+| Pontos de Extesão  |   |
+
+| Identificador  | UC02|
+| ------------- | ------------- |
+| Nome| Realizar Login |
+| Atores  | Cliente |
+| Sumário  | Permite com que o Cliente se credencie no sistema  |
+| Pré-condição  | Ter um cadastro ativo |
+| Pós-condição  | Login realizado |
+| Pontos de Inclusão  |   |
+| Pontos de Extesão  |   |
+| Identificador  | UC03|
+| ------------- | ------------- |
+| Nome| Encontrar loja mais proxima |
+| Atores  |   |
+| Sumário  | O sistema procura a unidade da Pizza-express mais proxima do cliente |
+| Pré-condição  | Pedido ativo |
+| Pós-condição  | O pedido é encaminhado para area de processamento |
+| Pontos de Inclusão  |   |
+| Pontos de Extesão  |   |
+
+| Identificador  | UC04|
+| ------------- | ------------- |
+| Nome| Processar pedido |
+| Atores  | Funcionario |
+| Sumário  | O Funcionario processa as informações do pedido |
+| Pré-condição  | Pedido ativo e a localização do cliente  |
+| Pós-condição  | Envia as informações do pedido para fabrica  |
+| Pontos de Inclusão  |   |
+| Pontos de Extesão  |   |
+| Identificador  | UC05|
+| ------------- | ------------- |
+| Nome| Controlar operações da fabrica  |
+| Atores  | Funcionario |
+| Sumário  | O funcionario encaminha as informações do pedido para os fabricantes  |
+| Pré-condição  | Receber informações do pedido  |
+| Pós-condição  | O funcionario indica o que deve ser feito com o pedido  |
+| Pontos de Inclusão  |   |
+| Pontos de Extesão  |   |
+
+| Identificador  | UC06|
+| ------------- | ------------- |
+| Nome| Produzir pedido |
+| Atores  |   |
+| Sumário  | O Pedido é produzido  |
+| Pré-condição  | Informações sobre o pedido  |
+| Pós-condição  | Repassa o pedido ao entregador |
+| Pontos de Inclusão  |   |
+| Pontos de Extesão  |   |
+
+| Identificador  | UC07|
+| ------------- | ------------- |
+| Nome| Entregar pedido |
+| Atores  | Entregador |
+| Sumário  | O entregador entrega o pedido ao cliente |
+| Pré-condição  | Informações sobre a entrega do pedido e obter o pedido |
+| Pós-condição  |   |
+| Pontos de Inclusão  |   |
+| Pontos de Extesão  |   |
+
+
 
 # Diagrama de sequencia
 
