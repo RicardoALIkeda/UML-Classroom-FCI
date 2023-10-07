@@ -27,26 +27,32 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Ricardo Andre Lopes Ikeda
 
 
 # Descrição do projeto
 
-*&lt;Introdução do projeto&gt;*
+  &nbsp;A Pizza-Express é uma cadeia de 40 lojas de fast-food com entrega domiciliar.<br/>
+	&nbsp;Pizza-Express vem perdendo 30% de seu rendimento em vendas por um problema em suas entregas. O problema está relacionado ao seu concorrente que disponibiliza uma entrega de até 30 minutos, desde o começo do pedido e a entrega.<br/>
+	&nbsp;Pizza-express, disponibiliza de uma entrega de até 1 hora. Atualmente utiliza computadores para armazenar as operações e as funções usuais do negócio, que não auxilia nas funções de processamento da entrega de seus pedidos.<br/>
+	&nbsp;O gerente de sistemas de informação, Elonn Muske, é encarregado de desenvolver uma aplicação de software que identifica a localização das lojas mais próximas do cliente e o sistema para operá-lo.<br/>
+	&nbsp;Com o patrocínio de Papa-Léguas Delivery, a equipe deve investigar uma opção de entrega de menos de 30 minutos. A ideia principal é montar lojas da Pizza-Express que não possuam nenhum espaço de varejo, por ser focado apenas na produção e entrega de pizzas. A loja deve ser localizada o mais próximo do cliente que receberá a ordem através de uma central, processa, e a entrega a ordem dentro de 10 ou 15 minutos da entrada do pedido.<br/>
+	&nbsp;Projetos de desenvolvimento de software indicados:<br/>
+		&nbsp; &nbsp;-Software de atendimento, que encontra a localização da fábrica de pizzas mais próxima do cliente e a entregue;<br/>
+		&nbsp; &nbsp;-Software de controle das operações da fábrica.<br/>
+
 
 # Análise de requisitos funcionais e não-funcionais
-*&lt;Descrição dos requisitos&gt;*
+&nbsp; -Sistema de localização
+&nbsp; -Sistema de pedidos
+&nbsp; -Rastreamento de pedidos
+&nbsp; -Controle de produção
+&nbsp; -Sistema de entrega
 
 # Diagrama de casos de uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![Screenshot_8](https://github.com/RicardoALIkeda/UML-Classroom-FCI/assets/89215809/0243c076-f883-4aad-ab30-c117a3919ec8)
+
 
 # Descrição dos casos de uso
 
