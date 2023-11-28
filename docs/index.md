@@ -127,19 +127,59 @@
 
 # Diagrama de classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![Screenshot_13](https://github.com/RicardoALIkeda/UML-Classroom-FCI/assets/89215809/e30adf29-203f-421b-a914-88968babdf8e)
+
 
 # Diagrama de Componentes
+![Screenshot_14](https://github.com/RicardoALIkeda/UML-Classroom-FCI/assets/89215809/e7c9bedc-4159-497d-887d-2dc96e523773)
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
 
 # Decisões de arquitetura
+Componentes Principais:
 
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
+    Entrada:
+        Aplicativo/Web para Pedidos e Rastreamento.
+        Software de Atendimento para localização da fábrica.
+
+    Processamento:
+        Sistema de PDV para processamento e encaminhamento de pedidos.
+        Servidores Locais para gerenciar lógica de negócios e integração.
+
+    Banco de Dados:
+        Centralizado para armazenar cardápio, pedidos, clientes e localizações.
+
+    Saída:
+        Impressoras na Fábrica para pedidos.
+        Rastreamento de Entrega para informações em tempo real.
+
+    Rede e Conectividade:
+        Roteadores e Switches para manter conectividade.
+        Conexão à Internet para pedidos online e atualizações.
+
+    Sistema de Pagamento:
+        Terminais de Pagamento e Gateway Online.
+
+    Entrega:
+        Rastreadores GPS para localização em tempo real.
+        Comunicação com Entregadores para atualizações.
+
+Arquitetura em Camadas:
+
+    Apresentação (Interface do Usuário):
+        Frontend Web responsivo e intuitivo.
+
+    Lógica de Aplicação:
+        Serviços e Lógica de Negócios para gestão de pedidos e entregas.
+        Controladores para comunicação eficiente.
+
+    Dados:
+        Banco de Dados centralizado para consistência.
+
 
 # Diagrama de implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![Screenshot_15](https://github.com/RicardoALIkeda/UML-Classroom-FCI/assets/89215809/5ff55979-7641-42fb-85d4-08894fbf1fc6)
+
 
 # Referências
 
